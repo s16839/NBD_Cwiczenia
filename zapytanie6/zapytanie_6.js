@@ -1,0 +1,32 @@
+db.people.insertOne(
+    {
+        "sex":"Male",
+        "first_name":"Jan",
+        "last_name":"Brynski",
+        "job":"Junior Frontend Developer",
+        "email":"jan.brynski@example.com",
+        "location":
+            {
+                "city":"Warsaw",
+                "address":
+                {
+                    "streetname":"Spacerowa",
+                    "streetnumber":"86"
+                }
+            },
+        "description":"vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris",
+        "height":"183",
+        "weight":"84",
+        "birth_date":"1998-06-10T02:55:03Z",
+        "nationality":"Poland",
+        "credit":
+            [
+                {
+                    "type":"switch",
+                    "number":"6759888939100098699",
+                    "currency":"PLN",
+                    "balance":"5117.06"
+                }
+            ]
+    }
+)

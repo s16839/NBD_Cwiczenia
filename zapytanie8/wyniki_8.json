@@ -1,0 +1,8 @@
+MongoDB shell version v4.2.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("8966c999-7a4e-49ff-aea6-9c928517951c") }
+MongoDB server version: 4.2.1
+MongoDB shell version v4.2.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("8c669715-0350-4844-ba1f-239d7040c414") }
+MongoDB server version: 4.2.1
